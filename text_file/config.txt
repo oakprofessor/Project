@@ -1,0 +1,6 @@
+Max player:
+2
+Time to wait for register:
+1
+Time to answer a question:
+15
