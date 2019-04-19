@@ -1,0 +1,32 @@
+Question 1: How do you declare a variable integer a in c?
+A.int* a;
+B.integer a;
+C.int a;
+D.integer* a;
+C
+10
+-5
+Question 2: Which library you need to include to use string in c?
+A.string.hpp
+B.string
+C.string.h
+D.string.cpp
+B
+20
+-10
+Question 3: Which one of the code bellow is the right way to print some text in C?
+A.cprint<<"Some text";
+B.cout>>"Some text";
+C.std::cout<<"Some text";
+D.std::cout<<"Some text"
+C
+30
+-15
+Question 4: To use cout you need to include which library?
+A.stdin.hpp
+B.iostream
+C.ostream
+D.stdlib.hpp
+B
+10
+-5
